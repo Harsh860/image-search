@@ -1,2 +1,2 @@
 # image-search
-this project use a flickr api to search images
+this project use  flickr api to search images and display it
